@@ -11,7 +11,7 @@
 <br>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wilfies&color=819398&style=flat&label=Trappers" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=Wilfies&color=819398&style=flat&&base=270000&label=Trappers" alt="Views">
 </p>
 <br>
 <p align="center">
