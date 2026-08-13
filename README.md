@@ -23,28 +23,5 @@ $\color{#FCD9BB}{\textsf{don't}}$ $\color{#D2C3BC}{\textsf{flirt}}$ $\color{#B74
 <img width="736" alt="1000009371" src="https://github.com/user-attachments/assets/a848763d-ad44-41b2-b998-a08ffebc267e" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=500&color=FCD9BB&center=true&vCenter=true&width=700&lines=I+miss+that+kind+of+misery,;the+kind+where+you+were+nice+to+me.;but+only+in+the+evening+so+I+ask—;am+I+just+dreaming?;I+love+you+so+much+that+it's+dripping;dripping+from+my+arms+and+such;i'm+sorry+I+Know+I'm+too+much;to+love,+to+trust,+im+nothing+but—"><br>
-<img width="1280" alt="1000009240" src="https://github.com/user-attachments/assets/dfa26a1b-9db7-4085-a28e-fe98376c67f8" /><img width="107"  alt="6276" src="https://github.com/user-attachments/assets/3285dd76-e886-4a6a-98f3-2a46d277df3b" />
-<img width="99"  alt="6285" src="https://github.com/user-attachments/assets/ccf6c0bc-dca1-4700-9032-ae94fdf37e62" />
-<img width="99"  alt="6286" src="https://github.com/user-attachments/assets/ee7494c5-9113-43ab-8805-6c6e33a3c063" />
-<img width="99"  alt="6287" src="https://github.com/user-attachments/assets/1179c4e6-1b27-4eea-8b59-994863835795" />
-<img width="99"  alt="6288" src="https://github.com/user-attachments/assets/782d7d28-4dc0-4c33-940b-2aaa7a8f1460" />
-<img width="99"  alt="6289" src="https://github.com/user-attachments/assets/72269e97-2947-4c48-b273-0bdfc2eac3d1" />
-<img width="99"  alt="6290" src="https://github.com/user-attachments/assets/9730594a-1497-4470-b7a5-871da04e4c58" /><br>
-<br>
-<br>
-<img width="88"  alt="6277" src="https://github.com/user-attachments/assets/aa7c611d-29f3-473e-b1cb-29044c18b361" />
-<img width="150"  alt="6278" src="https://github.com/user-attachments/assets/3fef4387-20a4-40f3-9298-6eff4c150882" />
-<img width="150"  alt="6279" src="https://github.com/user-attachments/assets/ea6bd0a0-2d38-47a9-b548-6c24d4cc1d7d" />
-<img width="78"  alt="6280" src="https://github.com/user-attachments/assets/bed7e206-a809-4064-8c54-fa04a8c81dcf" /><br>
-<br>
-<br>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=55707e&center=true&vCenter=true&width=500&lines=Ooh+Goddamn,I+drop+bombs;I+was+born+with+the+brains—;and+the+brawn.;I+am+the+king!—;and+youre+just+a+pawn.;who's+got+the+high+ground+now?;Obi-wan."><br>
-<br>
-<br>
-<br>
-<img width="1000"  alt="6267" src="https://github.com/user-attachments/assets/bb1550fe-0ed8-4d13-99ec-e728f58dc9d2" /><br>
-<br>
-<br>
-<br>
-<br>
+<img width="1280" alt="1000009240" src="https://github.com/user-attachments/assets/dfa26a1b-9db7-4085-a28e-fe98376c67f8" />
 </p>
