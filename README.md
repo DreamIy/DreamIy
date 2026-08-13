@@ -1,25 +1,29 @@
+<div align="center">
+<img width="1280"  alt="1000009238" src="https://github.com/user-attachments/assets/8b60e441-b85f-48f7-835d-7d09bdc89a6e" />
+<img width="1280"  alt="1000009239" src="https://github.com/user-attachments/assets/736474bd-b39c-4ebc-baa1-1fae03636455" />
+
 <p align="center">
-<img width="1280" alt="6264" src="https://github.com/user-attachments/assets/637c5e42-e793-47b8-8c90-ea8cd08c27b0" /><br>
-<br>
-<br>
-<img width="22"  alt="6304" src="https://github.com/user-attachments/assets/461ba538-d141-481f-a7b8-b695081231ea" />
-<img width="22"  alt="6305" src="https://github.com/user-attachments/assets/278c7e72-da03-4edc-8335-c9e609539e6d" />
-<img width="21"  alt="6306" src="https://github.com/user-attachments/assets/7370610f-911a-4546-94df-791dd9781e61" />
+<a href="https://hits.sh/github.com/staticAngels/"><img alt="Hits" src="https://hits.sh/github.com/staticAngels.svg?style=for-the-badge&label=(%20%20%E2%89%A7%E1%97%9C%E2%89%A6)&color=FCD9BB&labelColor=B74C5F"/></a>
 </p>
-<br>
-<br>
-<br>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wilfies&color=819398&style=flat&&base=270000&label=Trappers" alt="Views">
-</p>
-<br>
-<p align="center">
-<br>
-<br>
-  <img width="107"  alt="6274" src="https://github.com/user-attachments/assets/83755277-52c8-4225-a238-90c4882391c2" />
-<img width="107"  alt="6275" src="https://github.com/user-attachments/assets/83b5b4b6-ba0a-4bdc-a205-16f25cfca0bf" />
-<img width="107"  alt="6276" src="https://github.com/user-attachments/assets/3285dd76-e886-4a6a-98f3-2a46d277df3b" />
+
+<img align="left" 
+src="https://files.catbox.moe/7i84e5.png" alt="decor img" width="50%"/> 
+  
+$\color{#FCD9BB}{\textsf{Nate}}$ $\color{#D2C3BC}{\textsf{Ou}}$ $\color{#B74C5F}{\textsf{Lexi}}$ $\color{#FAC18E}{\textsf{he /}}$ $\color{#D2C3BC}{\textsf{she/it}}$ $\color{#FCD9BB}{\textsf{, pansexual}}$ $\color{#B74C5F}{\textsf{bigender}}$ $\color{#FCD9BB}{\textsf{, no}}$ $\color{#D2C3BC}{\textsf{dni,}}$ $\color{#B74C5F}{\textsf{In}}$ $\color{#FAC18E}{\textsf{a}}$ $\color{#D2C3BC}{\textsf{poly}}$ $\color{#FCD9BB}{\textsf{relationship}}$ $\color{#B74C5F}{\textsf{pls}}$ 
+$\color{#FCD9BB}{\textsf{don't}}$ $\color{#D2C3BC}{\textsf{flirt}}$ $\color{#B74C5F}{\textsf{in}}$ $\color{#D2C3BC}{\textsf{a}}$ $\color{#F58727}{\textsf{serious}}$ $\color{#FCD9BB}{\textsf{way !!}}$ 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://files.catbox.moe/qjxt1a.gif" alt="pix"/> ִֶָ♡་༘ $\color{#FCD9BB}{\textsf{layout}}$ $\color{#D2C3BC}{\textsf{made}}$ $\color{#FCD9BB}{\textsf{by}}$ $\color{#FAC18E}{\textsf{Cheriri}}$ $\color{#D2C3BC}{\textsf{hi}}$ $\color{#FCD9BB}{\textsf{hello}}$ $\color{#B74C5F}{\textsf{cheririii}}$ 
+    </td>
+  </tr>
+</table>
+
+<img width="736" alt="1000009371" src="https://github.com/user-attachments/assets/a848763d-ad44-41b2-b998-a08ffebc267e" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=500&color=FCD9BB&center=true&vCenter=true&width=700&lines=I+miss+that+kind+of+misery,;the+kind+where+you+were+nice+to+me.;but+only+in+the+evening+so+I+ask—;am+I+just+dreaming?;I+love+you+so+much+that+it's+dripping;dripping+from+my+arms+and+such;i'm+sorry+I+Know+I'm+too+much;to+love,+to+trust,+im+nothing+but—"><br>
+<img width="1280" alt="1000009240" src="https://github.com/user-attachments/assets/dfa26a1b-9db7-4085-a28e-fe98376c67f8" /><img width="107"  alt="6276" src="https://github.com/user-attachments/assets/3285dd76-e886-4a6a-98f3-2a46d277df3b" />
 <img width="99"  alt="6285" src="https://github.com/user-attachments/assets/ccf6c0bc-dca1-4700-9032-ae94fdf37e62" />
 <img width="99"  alt="6286" src="https://github.com/user-attachments/assets/ee7494c5-9113-43ab-8805-6c6e33a3c063" />
 <img width="99"  alt="6287" src="https://github.com/user-attachments/assets/1179c4e6-1b27-4eea-8b59-994863835795" />
