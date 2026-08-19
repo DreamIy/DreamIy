@@ -10,7 +10,7 @@
 <img align="left" 
 src="https://files.catbox.moe/ynps64.png" alt="decor img" width="50%"/> 
   
-$\color{#9DA594}{\textsf{Nate}}$ $\color{#DEDADD}{\textsf{Ou}}$ $\color{#9DA594}{\textsf{Lexi}}$ $\color{#DEDADD}{\textsf{he /}}$ $\color{#9DA594}{\textsf{she/it}}$ $\color{#DEDADD}{\textsf{, pansexual}}$ $\color{#9DA594}{\textsf{bigender}}$ $\color{#DEDADD}{\textsf{, no}}$ $\color{#9DA594}{\textsf{dni,}}$ $\color{#DEDADD}{\textsf{In}}$ $\color{#9DA594}{\textsf{a}}$ $\color{#DEDADD}{\textsf{poly}}$ $\color{#9DA594}{\textsf{relationship}}$ $\color{#DEDADD}{\textsf{pls}}$ 
+$\color{#9DA594}{\textsf{Eddi}}$ $\color{#DEDADD}{\textsf{Ou}}$ $\color{#9DA594}{\textsf{Nate}}$ $\color{#DEDADD}{\textsf{he /}}$ $\color{#9DA594}{\textsf{she/it}}$ $\color{#DEDADD}{\textsf{, pansexual}}$ $\color{#9DA594}{\textsf{bigender}}$ $\color{#DEDADD}{\textsf{, no}}$ $\color{#9DA594}{\textsf{dni,}}$ $\color{#DEDADD}{\textsf{In}}$ $\color{#9DA594}{\textsf{a}}$ $\color{#DEDADD}{\textsf{poly}}$ $\color{#9DA594}{\textsf{relationship}}$ $\color{#DEDADD}{\textsf{pls}}$ 
 $\color{#9DA594}{\textsf{don't}}$ $\color{#DEDADD}{\textsf{flirt}}$ $\color{#9DA594}{\textsf{in}}$ $\color{#DEDADD}{\textsf{a}}$ $\color{#F58727}{\textsf{serious}}$ $\color{#DEDADD}{\textsf{way !!}}$ 
 
 <table>
